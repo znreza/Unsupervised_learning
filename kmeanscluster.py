@@ -1,3 +1,7 @@
+#Author: Zarreen Naowal Reza
+#Email: zarreen.naowal.reza@gmail.com
+#K-means clustering algorithm
+
 import pandas as pd
 import numpy as np
 
