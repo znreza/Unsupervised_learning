@@ -1,3 +1,7 @@
+#Author: Zarreen Naowal Reza
+#Email: zarreen.naowal.reza@gmail.com
+#Finds the best value of K using CH index
+
 import pandas as pd
 import numpy as np
 
